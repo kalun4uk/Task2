@@ -1,0 +1,5 @@
+C:\Users\Юрій\documents\visual studio 2015\Projects\Task12\Task12\bin\Debug\Task12.exe
+C:\Users\Юрій\documents\visual studio 2015\Projects\Task12\Task12\bin\Debug\Task12.pdb
+C:\Users\Юрій\documents\visual studio 2015\Projects\Task12\Task12\obj\Debug\Task12.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\documents\visual studio 2015\Projects\Task12\Task12\obj\Debug\Task12.exe
+C:\Users\Юрій\documents\visual studio 2015\Projects\Task12\Task12\obj\Debug\Task12.pdb
